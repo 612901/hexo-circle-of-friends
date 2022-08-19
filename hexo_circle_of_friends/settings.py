@@ -1,9 +1,9 @@
 ################################请修改以下内容################################
 # 友链页地址
 # 参数说明：
-# link：必填，在这里填写你的友链页面地址
-# theme：必填，友链页的获取策略。需要指定该页面的主题，可选参数如下（这些是目前支持的主题）：
-#   - common1: 通用主题1，请参考：https://fcircle-doc.js.cool/#/developmentdoc?id=友链页适配
+# link：https://612901.github.io/links
+# 主题：art
+# - common1: 通用主题主题：https://fcircle-doc.js.cool/#/developmentdoc?id=友链页1请参考
 #   - common2: 通用主题2，请参考：https://fcircle-doc.js.cool/#/developmentdoc?id=友链页适配
 #   - butterfly：butterfly主题
 #   - fluid：fluid主题

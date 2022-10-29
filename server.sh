@@ -6,8 +6,8 @@ export EXPOSE_PORT=8000
 export RUN_PER_HOURS=6
 #export PROXY=""
 ### leancloud配置
-export APPID=""
-export APPKEY=""
+export APPID="6I2rKFi6vVWHbRWMrlH0mkQ0-MdYXbMMI"
+export APPKEY="45aQ8qHzzaOiu0rH6KY95C0Z"
 ### mysql配置
 #export MYSQL_USERNAME=""
 #export MYSQL_PASSWORD=""
